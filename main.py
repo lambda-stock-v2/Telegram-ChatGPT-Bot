@@ -6,7 +6,7 @@ import requests
 from requests import get
 import os
 import openai
-from gtts import gTTS
+
 
 api_id = 22805944
 api_hash = "95c8e4b7397e7c755fe022231a95b667"
